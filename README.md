@@ -1,2 +1,1 @@
-# mine
-my first git hub file
+Python is life
